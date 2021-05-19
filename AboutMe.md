@@ -7,7 +7,7 @@
 - 🤞 I’m looking to collaborate with Spotify to work as part of their User Research team to deliver the best product to their listeners.
 - 📫 How to reach me: will.delsanto@gmail.com or by phone: 925.2167296
 
-Check out my "Doggos" release! (:
+[Meet my Pups (:](https://github.com/wdelsanto/Hey-Spotify-/releases/tag/v1.0)
 
 
 
